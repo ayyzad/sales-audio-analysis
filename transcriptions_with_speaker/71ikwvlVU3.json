@@ -1,0 +1,102 @@
+{
+  "full_transcript": "Hi, Greville on the green here, how can I help you? Hi, this is John with Soft Skillet. How are you doing today? Not bad. What can I do for you? Yep, I was hoping to speak with Julia, your guys owner. I think she's expecting my call. Ha, that's me. We haven't opened yet but. Oh, there we go. Okay, so I grabbed the phone. What's up? Oh, awesome. Well, great to meet you, Julia. I heard from Jack Jackson that you might be interested in speaking with me. He mentioned that you guys are having some trouble projecting out seating which is hurting you on inventory planning because you don't know how much revenue and those sorts of things are, have just been spiky for you. That sound about right? Oh yeah. Jack gave me your number. I was supposed to call you actually the food cost side of things because most of our goods are dry but we can never plan for how many tables and it's annoying. I was really interested because he said you guys offered a guarantee on guests. We'd love that. Oh yeah, awesome. Yeah, sounds like you're interested in what we call revenue smoothing. So we promise basically that you'll have a certain amount of headcount over a given week. So that helps you because you don't have to worry about that a bad week just throwing off your P and L and it just smooths things out for you quite a bit. So basically the ask is for you to send over some data on how many people are getting through the door on a weekly basis. Your OMS should have it and we ingest that and then throw some numbers at you that are a guarantee. So if we don't make up, make it up to that number, we guarantee that you'll get that number minus however many customers we actually deliver times your ticket size and a credit back for our platform. So just to use an example, if you average 250 customers in a given week, but we only get you 200 next week and your average ticket size is $20, we'll actually credit you our platform fee plus pay you up to $1,000 and the first portion, like I said, is credited to your invoice and then the rest goes towards, it's just a straight cash check for you. So we are so confident that we drive traffic to you that we'll pay out of pocket. Oh, awesome. Yep, that's exactly what I'm looking for. Love that you guys do that. And we're interested in new reservation software anyway. How much do you cost a month? Yes. So with the revenue guarantee we're $500 a month without it we can be a little bit cheaper but we can't promise minimums and we don't do the. Guarantee oh, how much cheaper? Out of curiosity. Yeah it ends up being usually about 300 bucks a month. Oh yeah we'd happily take the downside protection there for a couple hundred bucks. What's next? I send over OMS data and you give me projections to get the contract set up and then you do the implementation after. Yes, exactly. So once we have the data from you guys we'll all go ahead and get a docusign together and then once we've gotten the contract signed, I'll come by in person to get you set up Jack told me you guys have some of the best Verizon Town I have to give those a try while I'm there. Sounds great. Excited to have you come by. And he's definitely not wrong. They're world class. Send that contract over and let's get cooking. Awesome Julia, thanks. Talk then. Okay, bye.",
+  "speaker_assignments": [
+    {
+      "speaker": "A",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "name": "Company"
+    }
+  ],
+  "speakers": [
+    {
+      "speaker": "A",
+      "text": "Hi, Greville on the green here, how can I help you?",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "text": "Hi, this is John with Soft Skillet. How are you doing today?",
+      "name": "Company"
+    },
+    {
+      "speaker": "A",
+      "text": "Not bad. What can I do for you?",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "text": "Yep, I was hoping to speak with Julia, your guys owner. I think she's expecting my call.",
+      "name": "Company"
+    },
+    {
+      "speaker": "A",
+      "text": "Ha, that's me. We haven't opened yet but. Oh, there we go. Okay, so I grabbed the phone. What's up?",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "text": "Oh, awesome. Well, great to meet you, Julia. I heard from Jack Jackson that you might be interested in speaking with me. He mentioned that you guys are having some trouble projecting out seating which is hurting you on inventory planning because you don't know how much revenue and those sorts of things are, have just been spiky for you. That sound about right?",
+      "name": "Company"
+    },
+    {
+      "speaker": "A",
+      "text": "Oh yeah. Jack gave me your number. I was supposed to call you actually the food cost side of things because most of our goods are dry but we can never plan for how many tables and it's annoying. I was really interested because he said you guys offered a guarantee on guests. We'd love that.",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "text": "Oh yeah, awesome. Yeah, sounds like you're interested in what we call revenue smoothing. So we promise basically that you'll have a certain amount of headcount over a given week. So that helps you because you don't have to worry about that a bad week just throwing off your P and L and it just smooths things out for you quite a bit. So basically the ask is for you to send over some data on how many people are getting through the door on a weekly basis. Your OMS should have it and we ingest that and then throw some numbers at you that are a guarantee. So if we don't make up, make it up to that number, we guarantee that you'll get that number minus however many customers we actually deliver times your ticket size and a credit back for our platform. So just to use an example, if you average 250 customers in a given week, but we only get you 200 next week and your average ticket size is $20, we'll actually credit you our platform fee plus pay you up to $1,000 and the first portion, like I said, is credited to your invoice and then the rest goes towards, it's just a straight cash check for you. So we are so confident that we drive traffic to you that we'll pay out of pocket.",
+      "name": "Company"
+    },
+    {
+      "speaker": "A",
+      "text": "Oh, awesome. Yep, that's exactly what I'm looking for. Love that you guys do that. And we're interested in new reservation software anyway. How much do you cost a month?",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "text": "Yes. So with the revenue guarantee we're $500 a month without it we can be a little bit cheaper but we can't promise minimums and we don't do the.",
+      "name": "Company"
+    },
+    {
+      "speaker": "A",
+      "text": "Guarantee oh, how much cheaper? Out of curiosity.",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah it ends up being usually about 300 bucks a month.",
+      "name": "Company"
+    },
+    {
+      "speaker": "A",
+      "text": "Oh yeah we'd happily take the downside protection there for a couple hundred bucks. What's next? I send over OMS data and you give me projections to get the contract set up and then you do the implementation after.",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "text": "Yes, exactly. So once we have the data from you guys we'll all go ahead and get a docusign together and then once we've gotten the contract signed, I'll come by in person to get you set up Jack told me you guys have some of the best Verizon Town I have to give those a try while I'm there.",
+      "name": "Company"
+    },
+    {
+      "speaker": "A",
+      "text": "Sounds great. Excited to have you come by. And he's definitely not wrong. They're world class. Send that contract over and let's get cooking.",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "text": "Awesome Julia, thanks. Talk then.",
+      "name": "Company"
+    },
+    {
+      "speaker": "A",
+      "text": "Okay, bye.",
+      "name": "Customer"
+    }
+  ],
+  "audio_file": "71ikwvlVU3.mp3",
+  "transcribed_at": "2024-11-11 15:33:58"
+}

@@ -1,0 +1,143 @@
+{
+  "full_transcript": "Hello, Tavern on the Creek here. How can I help you? Hi, this is John calling with Soft Skillet. How are you doing today? Oh, I'm doing well. What can I do for you? Yep, I'm calling to talk to either your owner or manager. So we're a software company started by some ex restaurateurs that have built a reservation management system that actually works. So what do you guys use today to handle your reservations? We're using Resi. Let me pat you over to Julia, our owner. Awesome. Hello, this is Julia. Hey Julia, this is John with Soft Skillet. How are you doing today? I'm doing well, John. What can I do for you? Awesome to hear. Awesome to hear. I'm calling as a part of a group of ex restaurateurs that have built a reservation management software that actually works for you. So we. I've heard you're using Resi today. How's that actually going for you? You're calling at a good time. I'm pretty frustrated with them. It seems like they're always just like nickel and diming. We have a pretty good reputation in the area and we don't really have that much trouble filling up the reservation sheet. We never even had problems before Resi. We started work with them because it was hard to keep up our management system. And also they said they do it all. They integrated with our in house order management system, but then said they'd stop doing that and now want us to switch over to them. Which just means more money. We've had this thing built and it works perfect for what we do. We're pretty much married to it. What's your guys take on it? That is super annoying. That's. It's no fun. Sorry to hear they're doing that to you. Yeah, we're. I'll say straight up, we're happy to do any custom integrations. They've done it already. It should be a pretty easy one for us too. Have you had any other issues kind of working with them? Any other things you've run into that have been annoying? No, I mean, as long as you're not going to just jack up rates on us in the future. We're paying them $300 a month today. How much do you charge? Yeah, out of the box. We're competitive. We will charge the same amount. And sometimes I can get discounts for restaurants like yours where you don't really care too much for getting more customers in the door. But since there's some custom work, I'll tell you right now, it's just we're probably not going to be able to discount anything, but is $300 a month, like, any issues with that or that work for you? No, that sounds good to me. And if you deliver well here, we'd be willing to pay a little more. Honestly, it's just such a nightmare when things are on and off and people want to charge more. Let's do it, though. Send me the contract outlining the integration work and send me a video of your platform, too, if you have it, and then we should be good to go over here. Awesome. Really excited to start working with you, Julia. And if you need anything, feel free to give me a call back at December, too. Perfect. Thanks, John. Appreciate it and looking forward to it. And I just got your email. Perfect.",
+  "speaker_assignments": [
+    {
+      "speaker": "A",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "name": "Company"
+    }
+  ],
+  "speakers": [
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Hello, Tavern on the Creek here. How can I help you?",
+      "sentiment": "neutral",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Hi, this is John calling with Soft Skillet. How are you doing today?",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Oh, I'm doing well. What can I do for you?",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Yep, I'm calling to talk to either your owner or manager. So we're a software company started by some ex restaurateurs that have built a reservation management system that actually works. So what do you guys use today to handle your reservations?",
+      "sentiment": "neutral",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "We're using Resi. Let me pat you over to Julia, our owner.",
+      "sentiment": "neutral",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Awesome.",
+      "sentiment": "positive",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Hello, this is Julia.",
+      "sentiment": "neutral",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Hey Julia, this is John with Soft Skillet. How are you doing today?",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "I'm doing well, John. What can I do for you?",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Awesome to hear. Awesome to hear. I'm calling as a part of a group of ex restaurateurs that have built a reservation management software that actually works for you. So we. I've heard you're using Resi today. How's that actually going for you?",
+      "sentiment": "neutral",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "You're calling at a good time. I'm pretty frustrated with them. It seems like they're always just like nickel and diming. We have a pretty good reputation in the area and we don't really have that much trouble filling up the reservation sheet. We never even had problems before Resi. We started work with them because it was hard to keep up our management system. And also they said they do it all. They integrated with our in house order management system, but then said they'd stop doing that and now want us to switch over to them. Which just means more money. We've had this thing built and it works perfect for what we do. We're pretty much married to it. What's your guys take on it?",
+      "sentiment": "negative",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "That is super annoying. That's. It's no fun. Sorry to hear they're doing that to you. Yeah, we're. I'll say straight up, we're happy to do any custom integrations. They've done it already. It should be a pretty easy one for us too. Have you had any other issues kind of working with them? Any other things you've run into that have been annoying?",
+      "sentiment": "positive",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "No, I mean, as long as you're not going to just jack up rates on us in the future. We're paying them $300 a month today. How much do you charge?",
+      "sentiment": "neutral",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Yeah, out of the box. We're competitive. We will charge the same amount. And sometimes I can get discounts for restaurants like yours where you don't really care too much for getting more customers in the door. But since there's some custom work, I'll tell you right now, it's just we're probably not going to be able to discount anything, but is $300 a month, like, any issues with that or that work for you?",
+      "sentiment": "neutral",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "No, that sounds good to me. And if you deliver well here, we'd be willing to pay a little more. Honestly, it's just such a nightmare when things are on and off and people want to charge more. Let's do it, though. Send me the contract outlining the integration work and send me a video of your platform, too, if you have it, and then we should be good to go over here.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Awesome. Really excited to start working with you, Julia. And if you need anything, feel free to give me a call back at December, too.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Perfect. Thanks, John. Appreciate it and looking forward to it. And I just got your email.",
+      "sentiment": "positive",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Perfect.",
+      "sentiment": "positive",
+      "confidence": 0.95
+    }
+  ],
+  "audio_file": "kq1OXLT.mov",
+  "transcribed_at": "2024-11-11 15:33:40"
+}

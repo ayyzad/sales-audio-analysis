@@ -1,0 +1,89 @@
+{
+  "full_transcript": "Hello? Hey, it's John with Soft Skill at Dave and Bob. How are you guys doing today? Doing well. Dave is a little under the weather today. He's here, but you'll just hear from me, Bob. Awesome. Sounds good Dave. Hope you feel better. Bob, how much information has Dave passed along to you? Not much. He told me he really wanted to chat with you but he's been under the weather. All I know is that you guys do reservations. Gotcha. Awesome. Well, Dave and I caught up yesterday and we chatted a good bit about you guys using OpenTable and some of the issues that you have right now. As mentioned, we're called Soft Skillet and we do a lot of things that OpenTable has tried to do for you but with a lot fewer issues. So we cover reservation management, order management and the rest for you. The big gripes that I've heard with OpenTable that you guys have are that they've tried to penny pinch you on pricing quite a bit, pretty much all the time. And that they haven't really held up their end of the bargain to get you more traffic in the door. Does that sound about right? Yeah, that's on the money. If you gave us the things they have with any of the hassles, PayPal, all that stuff and actually got us people, we'd move over in a heartbeat. Awesome. Yeah, that's exactly what I talked to Dave about yesterday. A lot of the people just really don't understand the restaurant business, to be honest. And that's why we started Soft Skillet. So here's how we work just to give you kind of the view. So we'll lock you in at $500 monthly rate for 24 months. So 500amonth, you don't have to worry about rate increases. So no more that pension penny pinching that you've dealt with at OpenTable. And this is the whole bundle. Included in that bundle is a guarantee that you'll see more customers. So I got the data from Dave, he sent it over by email yesterday. It looks like you guys are getting about 250 people through the door on a weekly basis. So if you don't get over 250 in a given week, you'll get a credit from us for 250 minus however many people we deliver times $20 which is your guys average ticket size. So let's say you only get 240 in a week, you get $150 credited. That doesn't sound right. You get $200 credited back to you for next month. So you'd only have to pay $300 for that month instead of the 500 monthly. Seriously? That's awesome. What if you send us 300 people but our average ticket size goes down though? Yeah, good question. So we don't provide a guarantee on ticket size that that'll stay the same, but we promise we'll get you more traffic. Has that happened with other restaurants? Do you guys run promotions or anything? Yeah. Basically the way it works on our end is if we're seeing the volumes are really low, we'll start promoting your restaurant and we'll offer credits on our platform to make sure we can drive traffic. Sometimes these people can be a little bit more budget conscious, and that means your ticket size will come down a bit, but we don't do that by default. We really want to send you people that are going to pay full freight. We've also seen restaurants benefit after the promotions with refit bookings, so it plays in your favor regardless. Sounds good. Awesome. Well, it sounds like you guys are all set. I'll go ahead and send that contract over to you and appreciate you taking the time to today. Thank you. Bye. See ya.",
+  "speaker_assignments": [
+    
+    { "speaker": "A", "name": "Company" },
+    { "speaker": "B", "name": "Customer" }
+  ],
+  
+  "speakers": [
+    {
+      "speaker": "A",
+      "text": "Hello? Hey, it's John with Soft Skill at Dave and Bob. How are you guys doing today?"
+    },
+    {
+      "speaker": "B",
+      "text": "Doing well. Dave is a little under the weather today. He's here, but you'll just hear from me, Bob."
+    },
+    {
+      "speaker": "A",
+      "text": "Awesome."
+    },
+    {
+      "speaker": "A",
+      "text": "Sounds good Dave. Hope you feel better. Bob, how much information has Dave passed along to you?"
+    },
+    {
+      "speaker": "B",
+      "text": "Not much. He told me he really wanted to chat with you but he's been under the weather. All I know is that you guys do reservations."
+    },
+    {
+      "speaker": "A",
+      "text": "Gotcha. Awesome."
+    },
+    {
+      "speaker": "A",
+      "text": "Well, Dave and I caught up yesterday and we chatted a good bit about you guys using OpenTable and some of the issues that you have right now. As mentioned, we're called Soft Skillet and we do a lot of things that OpenTable has tried to do for you but with a lot fewer issues. So we cover reservation management, order management and the rest for you. The big gripes that I've heard with OpenTable that you guys have are that they've tried to penny pinch you on pricing quite a bit, pretty much all the time. And that they haven't really held up their end of the bargain to get you more traffic in the door. Does that sound about right?"
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, that's on the money. If you gave us the things they have with any of the hassles, PayPal, all that stuff and actually got us people, we'd move over in a heartbeat."
+    },
+    {
+      "speaker": "A",
+      "text": "Awesome."
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, that's exactly what I talked to Dave about yesterday. A lot of the people just really don't understand the restaurant business, to be honest. And that's why we started Soft Skillet. So here's how we work just to give you kind of the view. So we'll lock you in at $500 monthly rate for 24 months. So 500amonth, you don't have to worry about rate increases. So no more that pension penny pinching that you've dealt with at OpenTable. And this is the whole bundle. Included in that bundle is a guarantee that you'll see more customers. So I got the data from Dave, he sent it over by email yesterday. It looks like you guys are getting about 250 people through the door on a weekly basis. So if you don't get over 250 in a given week, you'll get a credit from us for 250 minus however many people we deliver times $20 which is your guys average ticket size. So let's say you only get 240 in a week, you get $150 credited. That doesn't sound right. You get $200 credited back to you for next month. So you'd only have to pay $300 for that month instead of the 500 monthly. Seriously?"
+    },
+    {
+      "speaker": "B",
+      "text": "That's awesome. What if you send us 300 people but our average ticket size goes down though?"
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, good question. So we don't provide a guarantee on ticket size that that'll stay the same, but we promise we'll get you more traffic."
+    },
+    {
+      "speaker": "B",
+      "text": "Has that happened with other restaurants? Do you guys run promotions or anything?"
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah. Basically the way it works on our end is if we're seeing the volumes are really low, we'll start promoting your restaurant and we'll offer credits on our platform to make sure we can drive traffic. Sometimes these people can be a little bit more budget conscious, and that means your ticket size will come down a bit, but we don't do that by default. We really want to send you people that are going to pay full freight. We've also seen restaurants benefit after the promotions with refit bookings, so it plays in your favor regardless."
+    },
+    {
+      "speaker": "B",
+      "text": "Sounds good."
+    },
+    {
+      "speaker": "A",
+      "text": "Awesome."
+    },
+    {
+      "speaker": "A",
+      "text": "Well, it sounds like you guys are all set. I'll go ahead and send that contract over to you and appreciate you taking the time to today."
+    },
+    {
+      "speaker": "B",
+      "text": "Thank you. Bye."
+    },
+    {
+      "speaker": "A",
+      "text": "See ya."
+    }
+  ],
+  "audio_file": "X98Dh95.mp3",
+  "transcribed_at": "2024-11-11 15:33:17"
+}

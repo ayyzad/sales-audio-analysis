@@ -1,0 +1,115 @@
+{
+  "full_transcript": "Hi, Vincent Restaurant here, how can I help you? Hey, this is John with Soft Skillet. How are you doing today? Not bad. What can I do for you? Yeah, I was hoping to speak with Vince, your guys owner. Yeah, Vince is out, but I'm his son Vinny and I manage the place. What can I do for you? Awesome. Great to meet you, Vinny. I'm with Soft Skillet, as mentioned, and we provide reservation management software. How are things going for you today? On that front, not too bad. Dad's pretty old school, so we've had the same stuff for a while. I don't think we're very interested in switching, to be honest. It gets the job done. Got it. Yeah. Well, I figured I'd give you a call. We're a little unique, honestly. We do a lot to help you just have more certainty about revenue. So rather than hoping that you'll book out the place for a night, we take in data and provide an actual guarantee that there's going to be at least a certain number of guests on a given day. And then if we make a bad prediction, we'll pay you out of our own pocket. We're that confident in our guarantees and that confident that we can drive people to your restaurant. Really? I mean, it sounds pretty interesting. How do you guys do that? Yeah, to be honest, I'm not really the guy who does the math, but I can give you a little peek into what that team has done. Basically, when we take in your data, we analyze some of the patterns in it and forms a number that we can guarantee. So we'll take data from your order management system and then that guarantee will be around the number of kind of current traffic that you have right now. And then we just have a bunch of people who use our app all the time to make reservations, check out new places, and then we make money by advertisements from restaurants who want to make who want more reservations too. So if we're not around your minimum of headcount of as many people as you're expecting, we'll then run the ads to make sure that you don't have to pay or make sure that we don't have to pay you since we own the ad platform too, and it's basically free for us to run the ads. Huh. I mean, that's pretty cool. I appreciate the call. We're doing pretty good on traffic right now and are actually looking to expand. If we have trouble with the next location, we might let you know. But as my dad's transitioning out away from the business, I am driving some of those expansion efforts. I'm actually, like, I'm mildly interested, but I don't think that the timing is right now for us. But I can give you a call if we end up needing you. Awesome. Sounds good. Vinny, great meeting you and exciting stuff on the expansion. Wish you the best of luck. And give me a call if anything does come up that we can help you out with. Thanks. Sounds good. Awesome. See ya.",
+  "speaker_assignments": [
+    {
+      "speaker": "A",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "name": "Company"
+    }
+  ],
+  "speakers": [
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Hi, Vincent Restaurant here, how can I help you?",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Hey, this is John with Soft Skillet. How are you doing today?",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Not bad. What can I do for you?",
+      "sentiment": "neutral",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Yeah, I was hoping to speak with Vince, your guys owner.",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Yeah, Vince is out, but I'm his son Vinny and I manage the place. What can I do for you?",
+      "sentiment": "neutral",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Awesome. Great to meet you, Vinny. I'm with Soft Skillet, as mentioned, and we provide reservation management software. How are things going for you today?",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "On that front, not too bad. Dad's pretty old school, so we've had the same stuff for a while. I don't think we're very interested in switching, to be honest. It gets the job done.",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Got it. Yeah. Well, I figured I'd give you a call. We're a little unique, honestly. We do a lot to help you just have more certainty about revenue. So rather than hoping that you'll book out the place for a night, we take in data and provide an actual guarantee that there's going to be at least a certain number of guests on a given day. And then if we make a bad prediction, we'll pay you out of our own pocket. We're that confident in our guarantees and that confident that we can drive people to your restaurant.",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Really? I mean, it sounds pretty interesting. How do you guys do that?",
+      "sentiment": "positive",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Yeah, to be honest, I'm not really the guy who does the math, but I can give you a little peek into what that team has done. Basically, when we take in your data, we analyze some of the patterns in it and forms a number that we can guarantee. So we'll take data from your order management system and then that guarantee will be around the number of kind of current traffic that you have right now. And then we just have a bunch of people who use our app all the time to make reservations, check out new places, and then we make money by advertisements from restaurants who want to make who want more reservations too. So if we're not around your minimum of headcount of as many people as you're expecting, we'll then run the ads to make sure that you don't have to pay or make sure that we don't have to pay you since we own the ad platform too, and it's basically free for us to run the ads. Huh.",
+      "sentiment": "neutral",
+      "confidence": 0.6
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "I mean, that's pretty cool. I appreciate the call. We're doing pretty good on traffic right now and are actually looking to expand. If we have trouble with the next location, we might let you know. But as my dad's transitioning out away from the business, I am driving some of those expansion efforts. I'm actually, like, I'm mildly interested, but I don't think that the timing is right now for us. But I can give you a call if we end up needing you.",
+      "sentiment": "neutral",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Awesome. Sounds good. Vinny, great meeting you and exciting stuff on the expansion. Wish you the best of luck. And give me a call if anything does come up that we can help you out with.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Thanks. Sounds good.",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Awesome. See ya.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    }
+  ],
+  "audio_file": "T1t7ltZ.mp3",
+  "transcribed_at": "2024-11-11 15:33:47"
+}

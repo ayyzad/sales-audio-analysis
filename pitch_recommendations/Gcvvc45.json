@@ -1,0 +1,237 @@
+{
+  "full_transcript": "This call is being recorded. Hi, Mary's on first here. How can I help you? Hi, this is John with Soft Skillet. How are you doing today? Not bad. What can I do for you? Yeah, I was hoping to speak with Mary, your guys owner. Yeah, Mary's out but I manage the place and my name is Mark. What can I do for you? Awesome. Good to meet you Mark. I am with Soft Skillet and we provide reservation management software. How are things going for you guys today? On that front we're doing all right. We shuffle tables around pretty often which is a bit of a hassle. The system we use today doesn't like it when we have large parties and put a bunch of tables together. It basically creates a default which is annoying to do and then undo. How do you guys handle it? Oh yeah, I totally know where you're coming from. I actually ran a place for a few years and it always seemed like a hassle. With the typical kind of companies it feels like they don't actually know what they're doing with the software. But we make it easy to manage. You can have as many configurations as you want and toggle between them and you can add any that you want to. We're basically all ex restaurateurs around here at Soft Skillet and we know what it's actually like to run a place. It never feels like the other companies really do. That's pretty cool. We just moved over to this new system a month ago. We're still getting used to it right now but it doesn't seem all that bad. We're probably going to keep giving it a shot for a bit but I appreciate you calling. Yeah, no worries. Sounds good. And good luck with the new system. One other unrelated one for you. You guys take walk ins. I might actually swing by tonight. Yep, happy to have you. I can put a reservation in if you want. Yeah, I am all good for right now. I'm not sure if I'm actually going to be coming in tonight or tomorrow but I have wanted to try you guys out for a while. Drive by all the time. Usually pretty easy to get a table. Yep, Saturday afternoons are pretty much the only time you need a reservation to avoid a wait. Yeah, awesome. Perfect. And then just out of curiosity too, like any other problems you guys are running into. It sounds like filling the place is one if I'm able to walk in. But I'm always curious kind of what the new challenges are. I've been out of the business for a bit. Just getting back into Soft Skill. Wonder what's going on in the restaurant world. Yeah, Giving people in is the top priority here. I'm sure you ran into that one. You wouldn't imagine how much things have changed since the pandemic. Our order mix has shifted so much takeout. We used to roughly have 95% of orders come from people in the restaurant. Now there's always delivery drivers waiting near the entrance. It's really tough for the kitchen because they don't really know how to sequence their orders. The worst is when we get a bunch of online orders or a big online order comes in while we're seating people. Then the people in the restaurant are waiting, but the tickets come in after. The online tickets for our staff turns things into chaos and creates a longer wait time for parties that we sit right after online orders. I know our servers take some heat for it. We're actually getting a handful of people in right now, so I have to run, but hope you have a good one and come by soon. Happy to meet you in person. Cheers. Awesome. Thanks for the time. Sounds like a hassle, but we'll catch up. Have a good one. See ya. Bye.",
+  "speaker_assignments": [
+    {
+      "speaker": "A",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "name": "Company"
+    }
+  ],
+  "speakers": [
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Hi, Mary's on first here. How can I help you?",
+      "sentiment": "positive",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Hi, this is John with Soft Skillet. How are you doing today?",
+      "sentiment": "positive",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Not bad. What can I do for you?",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Yeah, I was hoping to speak with Mary, your guys owner.",
+      "sentiment": "neutral",
+      "confidence": 0.6
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Yeah, Mary's out but I manage the place and my name is Mark. What can I do for you?",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Awesome. Good to meet you Mark. I am with Soft Skillet and we provide reservation management software. How are things going for you guys today?",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "On that front we're doing all right. We shuffle tables around pretty often which is a bit of a hassle. The system we use today doesn't like it when we have large parties and put a bunch of tables together. It basically creates a default which is annoying to do and then undo. How do you guys handle it?",
+      "sentiment": "negative",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Oh yeah, I totally know where you're coming from. I actually ran a place for a few years and it always seemed like a hassle. With the typical kind of companies it feels like they don't actually know what they're doing with the software. But we make it easy to manage. You can have as many configurations as you want and toggle between them and you can add any that you want to. We're basically all ex restaurateurs around here at Soft Skillet and we know what it's actually like to run a place. It never feels like the other companies really do.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "That's pretty cool. We just moved over to this new system a month ago. We're still getting used to it right now but it doesn't seem all that bad. We're probably going to keep giving it a shot for a bit but I appreciate you calling.",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Yeah, no worries. Sounds good. And good luck with the new system. One other unrelated one for you. You guys take walk ins. I might actually swing by tonight.",
+      "sentiment": "positive",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Yep, happy to have you. I can put a reservation in if you want.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Yeah, I am all good for right now. I'm not sure if I'm actually going to be coming in tonight or tomorrow but I have wanted to try you guys out for a while. Drive by all the time. Usually pretty easy to get a table.",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Yep, Saturday afternoons are pretty much the only time you need a reservation to avoid a wait.",
+      "sentiment": "neutral",
+      "confidence": 0.6
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Yeah, awesome. Perfect. And then just out of curiosity too, like any other problems you guys are running into. It sounds like filling the place is one if I'm able to walk in. But I'm always curious kind of what the new challenges are. I've been out of the business for a bit. Just getting back into Soft Skill. Wonder what's going on in the restaurant world.",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Yeah, Giving people in is the top priority here. I'm sure you ran into that one. You wouldn't imagine how much things have changed since the pandemic. Our order mix has shifted so much takeout. We used to roughly have 95% of orders come from people in the restaurant. Now there's always delivery drivers waiting near the entrance. It's really tough for the kitchen because they don't really know how to sequence their orders. The worst is when we get a bunch of online orders or a big online order comes in while we're seating people. Then the people in the restaurant are waiting, but the tickets come in after. The online tickets for our staff turns things into chaos and creates a longer wait time for parties that we sit right after online orders. I know our servers take some heat for it. We're actually getting a handful of people in right now, so I have to run, but hope you have a good one and come by soon. Happy to meet you in person. Cheers.",
+      "sentiment": "negative",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Awesome. Thanks for the time. Sounds like a hassle, but we'll catch up. Have a good one. See ya.",
+      "sentiment": "positive",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Bye.",
+      "sentiment": "positive",
+      "confidence": 0.8
+    }
+  ],
+  "audio_file": "Gcvvc45.mp3",
+  "transcribed_at": "2024-11-11 15:33:10",
+  "conversation_analysis": {
+    "key_moments": [
+      {
+        "moment": "Customer expresses frustration with current reservation system.",
+        "utterance_index": 6,
+        "impact": "Negative",
+        "explanation": "The customer shares a negative sentiment about their current system, indicating a pain point that could be addressed."
+      },
+      {
+        "moment": "Company representative empathizes and shares relevant experience.",
+        "utterance_index": 7,
+        "impact": "Positive",
+        "explanation": "The company representative's acknowledgment of the customer's frustration and sharing of personal experience builds rapport and trust."
+      },
+      {
+        "moment": "Customer indicates they are still adjusting to a new system.",
+        "utterance_index": 9,
+        "impact": "Neutral",
+        "explanation": "The customer is non-committal about switching systems, suggesting they are not ready to engage further."
+      },
+      {
+        "moment": "Customer discusses challenges faced since the pandemic.",
+        "utterance_index": 13,
+        "impact": "Negative",
+        "explanation": "The customer expresses significant operational challenges, indicating a potential need for solutions that the company could provide."
+      }
+    ],
+    "conversation_flow": {
+      "opening_effectiveness": "The opening was friendly and established a positive tone, but the company representative could have been more direct in stating the purpose of the call.",
+      "objection_handling": "The company effectively empathized with the customer's frustrations but missed an opportunity to propose a solution or schedule a follow-up.",
+      "closing_effectiveness": "The closing was polite and left the door open for future interaction, but lacked a strong call to action.",
+      "overall_flow_rating": 0.7
+    },
+    "customer_engagement": {
+      "sentiment_progression": "Customer sentiment fluctuated from neutral to negative when discussing their current system, then returned to neutral and positive towards the end.",
+      "resonating_topics": [
+        "Reservation management challenges",
+        "Impact of the pandemic on restaurant operations"
+      ],
+      "concern_points": [
+        "Frustration with current reservation system",
+        "Operational chaos due to online orders"
+      ]
+    },
+    "recommendations": {
+      "strengths": [
+        "Company representative demonstrated empathy and shared relevant experience.",
+        "The conversation maintained a friendly tone throughout."
+      ],
+      "improvement_areas": [
+        "The company could have provided a more direct value proposition early in the conversation.",
+        "Follow-up questions could have been more targeted to uncover specific needs."
+      ],
+      "best_practices": [
+        "Building rapport through shared experiences.",
+        "Maintaining a positive and friendly demeanor."
+      ]
+    },
+    "overall_effectiveness_score": 0.65
+  },
+  "product_pitch_analysis": {
+    "recommended_pitch": "Operator",
+    "fit_score": 0.85,
+    "reasoning": {
+      "primary_reasons": [
+        "The customer expressed frustration with their current reservation system, indicating a need for a solution that understands the challenges faced by restaurateurs.",
+        "The company pitch resonates with the customer's sentiment by emphasizing that Soft Skillet was founded by people who have experienced similar pain points in the restaurant industry."
+      ],
+      "customer_signals": [
+        "The customer highlighted their struggles with the current system and operational chaos, which aligns with the emotional appeal of the Operator pitch.",
+        "The customer showed interest in the company's understanding of restaurant operations, which is a core aspect of the Operator pitch."
+      ],
+      "potential_objections": [
+        "The customer may be hesitant to switch systems again so soon after a recent change.",
+        "They might question the effectiveness of a new solution given their current adjustment period."
+      ]
+    },
+    "actual_discussion": {
+      "alignment": "The conversation effectively touched on the customer's frustrations with their current system, which aligns well with the Operator pitch's focus on empathy and understanding of restaurateur challenges.",
+      "missed_opportunities": [
+        "The company representative could have emphasized the shared experiences of the Soft Skillet founders more directly to strengthen the emotional connection.",
+        "A more explicit discussion about how Soft Skillet can alleviate the specific pain points mentioned by the customer could have been beneficial."
+      ],
+      "improvement_suggestions": [
+        "Position the Operator pitch earlier in the conversation to establish a connection based on shared experiences.",
+        "Ask targeted questions about the specific frustrations with the current system to better tailor the pitch."
+      ]
+    },
+    "alternative_pitches": [
+      {
+        "name": "AI Seating",
+        "fit_score": 0.7,
+        "key_consideration": "While the AI Seating pitch addresses revenue optimization, it may not resonate as strongly with the customer's immediate frustrations regarding their current system."
+      },
+      {
+        "name": "Smooth Revenue",
+        "fit_score": 0.65,
+        "key_consideration": "This pitch focuses on revenue certainty, which is relevant but may not directly address the operational chaos and frustrations expressed by the customer."
+      }
+    ]
+  }
+}

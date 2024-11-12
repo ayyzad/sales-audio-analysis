@@ -1,0 +1,62 @@
+{
+  "full_transcript": "This call is being recorded. Hi, it's Johnny's Restaurant here, how can I help you? Hey, this is John with Soft Skeleton. Can I speak to your owner or manager? This is Rob, I manage the place. We're pretty busy right now. What's up? How can I help you? Hey Rob, I'm calling to talk about your guys reservation software. How's that going for you today? It's going all right. How come? Yeah, sounds like it could be a little bit better. What's the big problem you're facing today? Honestly, it's just not that easy to use. We have a lot of turnover, new people working here all the time and it's not always the easiest to have them figure out how to use things. And even then there's just weird stuff happening that could be simpler. I guess that's why you're calling. How come Soft Skillet is better? Yeah, yeah, definitely. That is the reason. And there's a couple things. First, I think we're really easy to use. We hear it all the time from our customers, so can kind of check that box for you. And then second, we actually use AI to optimize seating arrangements and that allows you to deliver more revenue. For example, just like rather than seeing a bunch of large parties book on a Friday or Saturday, we can use the AI to manage your bookings. Make sure you maximize heads, maximize turnover and maximize revenue. We know that's a big deal for all the restaurant owners and operators, but what do you think about that? Are you pretty interested? Oh, shoot, Sorry, I actually have to go right now. Our hostess couldn't make it in today so I'm stuck seeding people and have to handle this group. A quick piece of advice. I mean, we're in hospitality, we're an old school industry. I wouldn't mention AI or you'll scare most operators. Honestly, I don't even really know what I know. My kids use ChatGPT. I don't even know what AI means. We're a people's business, we're not a computer business. So yeah, give me a call back some other time though, I gotta run.",
+  "speaker_assignments": [
+    {
+      "speaker": "A",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "name": "Company"
+    }
+  ],
+  "speakers": [
+    {
+      "speaker": "A",
+      "text": "Hi, it's Johnny's Restaurant here, how can I help you?",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "text": "Hey, this is John with Soft Skeleton. Can I speak to your owner or manager?",
+      "name": "Company"
+    },
+    {
+      "speaker": "A",
+      "text": "This is Rob, I manage the place. We're pretty busy right now. What's up? How can I help you?",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "text": "Hey Rob, I'm calling to talk about your guys reservation software. How's that going for you today?",
+      "name": "Company"
+    },
+    {
+      "speaker": "A",
+      "text": "It's going all right. How come?",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, sounds like it could be a little bit better. What's the big problem you're facing today?",
+      "name": "Company"
+    },
+    {
+      "speaker": "A",
+      "text": "Honestly, it's just not that easy to use. We have a lot of turnover, new people working here all the time and it's not always the easiest to have them figure out how to use things. And even then there's just weird stuff happening that could be simpler. I guess that's why you're calling. How come Soft Skillet is better?",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, yeah, definitely. That is the reason. And there's a couple things. First, I think we're really easy to use. We hear it all the time from our customers, so can kind of check that box for you. And then second, we actually use AI to optimize seating arrangements and that allows you to deliver more revenue. For example, just like rather than seeing a bunch of large parties book on a Friday or Saturday, we can use the AI to manage your bookings. Make sure you maximize heads, maximize turnover and maximize revenue. We know that's a big deal for all the restaurant owners and operators, but what do you think about that? Are you pretty interested?",
+      "name": "Company"
+    },
+    {
+      "speaker": "A",
+      "text": "Oh, shoot, Sorry, I actually have to go right now. Our hostess couldn't make it in today so I'm stuck seeding people and have to handle this group. A quick piece of advice. I mean, we're in hospitality, we're an old school industry. I wouldn't mention AI or you'll scare most operators. Honestly, I don't even really know what I know. My kids use ChatGPT. I don't even know what AI means. We're a people's business, we're not a computer business. So yeah, give me a call back some other time though, I gotta run.",
+      "name": "Customer"
+    }
+  ],
+  "audio_file": "TC8NydiKl7.mp3",
+  "transcribed_at": "2024-11-11 15:33:25"
+}

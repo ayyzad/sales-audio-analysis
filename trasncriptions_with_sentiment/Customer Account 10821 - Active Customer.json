@@ -1,0 +1,115 @@
+{
+  "full_transcript": "This call is being recorded. Hey, Rob, this is John from Soft Skillet. I know you guys have been using us for about a month. I wanted to check in and see how it's going. Hey, John. Appreciate the call. Things are going well for us. No issues with the platform. It was easy to get everyone trained up and ready to go on Soft skillets. Awesome to hear. How's foot traffic been? Oh, yeah, you guys are crushing it. You really meant it when you said you'd exceed the targets. And to be honest, we're really happy with how things are going. That is very good to hear. Feel free to pass my info along to anybody else you know who's kind of in the same position, can use more customers too. I'm curious, what else is kind of top of mind for you right now with how things are going and running the business in general? Yeah, I'll share your number for sure. I know I have a lot of friends who could definitely benefit from this. In terms of top of mind, we've been close to fully booked for the last few weeks. It's new, but now it's all about the experience to keep people coming back. We've turned over some line staff in the past month, but we are getting new people trained up, so the strain isn't too bad on the kitchen right now. We're also thinking about some renovations to the outdoor patio this winter to get us ready for next spring in summer, but I'm less involved. I mean, makes. Makes sense. That sounds awesome, though. Any you guys got any hopes for future new locations, open up any more places, anything like that? Not for us. No expansion plans for the owner from when I've talked to him. I've told him, though, that I've been here for a while. I've been thinking about starting a new place, and he actually said that he would back me if I wanted to go out on my own, so. Wow, that's exciting. Same concept. Are you looking at doing something different? Not too sure right now, to be honest. I've noticed, though, that most places, ours really struggle to balance takeout orders with an upscale dining experience. Once we started filling this place up, we actually stopped accepting any takeout orders. There's a lot of problems you have to deal with when you think about, like, kitchen throughput. I'll tell you a story like, our chef would go ballistic on me if I tried to get his staff to pump out more food. They're still adjusting to all the new customers that you've been sending us, so that might be playing a part as well. The other thing that's really tough to figure out is pricing for the takeout orders because we're doing the same dishes we do for customers who are here. But the quality and the experience is worse because obviously, you know, take out, the food is out for a lot longer. People aren't getting their food at the best possible time to eat. The plastic and paper create a lot of moisture, so the hot dishes get soggy. Online orders propped us up for a while, but I'm really glad that we don't have to deal with them right now, to be honest. Well, that's super interesting. Well, you know, if you end up opening up your own place, you know where to find us, too. We're always happy to help, of course. John, you guys have been great. Can't emphasize it enough. Really happy we're working with you, so. Yeah, cheers. Awesome. Well, thanks for the time. Talk soon. Cool. See ya.",
+  "speaker_assignments": [
+    {
+      "speaker": "A",
+      "name": "Company"
+    },
+    {
+      "speaker": "B",
+      "name": "Customer"
+    }
+  ],
+  "speakers": [
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Hey, Rob, this is John from Soft Skillet. I know you guys have been using us for about a month. I wanted to check in and see how it's going.",
+      "sentiment": "neutral",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Hey, John. Appreciate the call. Things are going well for us. No issues with the platform. It was easy to get everyone trained up and ready to go on Soft skillets.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Awesome to hear. How's foot traffic been?",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Oh, yeah, you guys are crushing it. You really meant it when you said you'd exceed the targets. And to be honest, we're really happy with how things are going.",
+      "sentiment": "positive",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "That is very good to hear. Feel free to pass my info along to anybody else you know who's kind of in the same position, can use more customers too. I'm curious, what else is kind of top of mind for you right now with how things are going and running the business in general?",
+      "sentiment": "positive",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Yeah, I'll share your number for sure. I know I have a lot of friends who could definitely benefit from this. In terms of top of mind, we've been close to fully booked for the last few weeks. It's new, but now it's all about the experience to keep people coming back. We've turned over some line staff in the past month, but we are getting new people trained up, so the strain isn't too bad on the kitchen right now. We're also thinking about some renovations to the outdoor patio this winter to get us ready for next spring in summer, but I'm less involved.",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "I mean, makes. Makes sense. That sounds awesome, though. Any you guys got any hopes for future new locations, open up any more places, anything like that?",
+      "sentiment": "positive",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Not for us. No expansion plans for the owner from when I've talked to him. I've told him, though, that I've been here for a while. I've been thinking about starting a new place, and he actually said that he would back me if I wanted to go out on my own, so.",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Wow, that's exciting. Same concept. Are you looking at doing something different?",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Not too sure right now, to be honest. I've noticed, though, that most places, ours really struggle to balance takeout orders with an upscale dining experience. Once we started filling this place up, we actually stopped accepting any takeout orders. There's a lot of problems you have to deal with when you think about, like, kitchen throughput. I'll tell you a story like, our chef would go ballistic on me if I tried to get his staff to pump out more food. They're still adjusting to all the new customers that you've been sending us, so that might be playing a part as well. The other thing that's really tough to figure out is pricing for the takeout orders because we're doing the same dishes we do for customers who are here. But the quality and the experience is worse because obviously, you know, take out, the food is out for a lot longer. People aren't getting their food at the best possible time to eat. The plastic and paper create a lot of moisture, so the hot dishes get soggy. Online orders propped us up for a while, but I'm really glad that we don't have to deal with them right now, to be honest.",
+      "sentiment": "negative",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Well, that's super interesting. Well, you know, if you end up opening up your own place, you know where to find us, too. We're always happy to help, of course.",
+      "sentiment": "positive",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "John, you guys have been great. Can't emphasize it enough. Really happy we're working with you, so. Yeah, cheers.",
+      "sentiment": "positive",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Awesome. Well, thanks for the time. Talk soon.",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Cool. See ya.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    }
+  ],
+  "audio_file": "Customer Account 10821 - Active Customer.mp3",
+  "transcribed_at": "2024-11-11 15:33:03"
+}

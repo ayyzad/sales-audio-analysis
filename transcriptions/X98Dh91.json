@@ -1,0 +1,81 @@
+{
+  "full_transcript": "Hi, Dave with Oceanside Bites here. How can I help you? Hey, Dave, this is John with Soft Skillet. How are you doing today? Doing well. What can I do for you? Yeah, I'm trying to get a hold of either your owner or your manager. We're a software company started by ex restaurateurs that help have built a reservation management system that actually works for you guys. Do you guys have something to handle reservations today before you patch me through? Yes, we are using OpenTable right now. I'm actually the manager. Oh, awesome. Dave. Yeah, as mentioned, name's John. I'm with soft skillet. How's OpenTable working for you? Is it checking all the boxes today? Yeah, you know, they get the job done, but we don't love them. Feels like they nickel and dime us a bit. You know, you said you've been in this business and you know the margins are thin as they are and we don't need someone who comes back to us asking for an extra 10% basically every month. They just keep driving the price up on us. Yeah, that is annoying. Very frustrating. Any other issues you run into with them too? Yeah, they sold us in getting more reservations booked with their massive network, but it's not really worked out. A lot of our regulars still call us for reservations and we're not at the top of their search list because we don't pay for promotion. They told us that they'd get us more customers and so far we haven't really seen that. Just requests to pay them for ads and get more people. Yeah, they are really nickel and diming you and sounds like they're not doing too much for you. Sorry to hear that. So, I mean, honestly, a lot of people just don't get the restaurant business. It's tough. Like I said, I've been there before and that's pretty much exactly why we got started. We feel like most of these software providers don't actually get it. So let me tell you what makes us a little bit different. First, we're going to lock you at a price for 24 months so you don't have to worry about getting rates jacked up every month. I've heard a lot about OpenTable and they come back to you regularly it seems, so you don't have to worry about those rate increases locked in for two years. We also provide a guarantee that you'll actually see more customers. So I know you use them to try and get more people in the door. Once we get your data, we basically guarantee that you're going to see at least the same number of bookings in a given week, and if not more so if we don't hit the numbers, we'll provide cash rebates for you based on the average ticket size times the number of people that we miss projections by. So we really put our money where our mouth is. And we're the only ones in the business that do it, from what we've heard. Curious how that sounds for you. You know, John, sounds like you're the man. For me. It sounds pretty awesome. And I'm glad to finally hear someone speaking about this who seems to get it. So let me talk to some of my business partners and I can get back to you. Does that sound good? Yeah, sounds great. Same time tomorrow work for you? Yeah, that works perfectly. Thanks. Awesome. We'll touch base tomorrow. I appreciate you taking my call and look forward to being in touch. Yeah, likewise. Okay, bye. Awesome. Thanks. Bye.",
+  "speaker_assignments": [
+    
+    { "speaker": "A", "name": "Customer" },
+    { "speaker": "B", "name": "Company" }
+  ],
+  
+  "speakers": [
+    {
+      "speaker": "A",
+      "text": "Hi, Dave with Oceanside Bites here. How can I help you?"
+    },
+    {
+      "speaker": "B",
+      "text": "Hey, Dave, this is John with Soft Skillet. How are you doing today?"
+    },
+    {
+      "speaker": "A",
+      "text": "Doing well. What can I do for you?"
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, I'm trying to get a hold of either your owner or your manager. We're a software company started by ex restaurateurs that help have built a reservation management system that actually works for you guys. Do you guys have something to handle reservations today before you patch me through?"
+    },
+    {
+      "speaker": "A",
+      "text": "Yes, we are using OpenTable right now. I'm actually the manager."
+    },
+    {
+      "speaker": "B",
+      "text": "Oh, awesome. Dave. Yeah, as mentioned, name's John. I'm with soft skillet. How's OpenTable working for you? Is it checking all the boxes today?"
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, you know, they get the job done, but we don't love them. Feels like they nickel and dime us a bit. You know, you said you've been in this business and you know the margins are thin as they are and we don't need someone who comes back to us asking for an extra 10% basically every month. They just keep driving the price up on us."
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, that is annoying. Very frustrating. Any other issues you run into with them too?"
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, they sold us in getting more reservations booked with their massive network, but it's not really worked out. A lot of our regulars still call us for reservations and we're not at the top of their search list because we don't pay for promotion. They told us that they'd get us more customers and so far we haven't really seen that. Just requests to pay them for ads and get more people."
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, they are really nickel and diming you and sounds like they're not doing too much for you. Sorry to hear that. So, I mean, honestly, a lot of people just don't get the restaurant business. It's tough. Like I said, I've been there before and that's pretty much exactly why we got started. We feel like most of these software providers don't actually get it. So let me tell you what makes us a little bit different. First, we're going to lock you at a price for 24 months so you don't have to worry about getting rates jacked up every month. I've heard a lot about OpenTable and they come back to you regularly it seems, so you don't have to worry about those rate increases locked in for two years. We also provide a guarantee that you'll actually see more customers. So I know you use them to try and get more people in the door. Once we get your data, we basically guarantee that you're going to see at least the same number of bookings in a given week, and if not more so if we don't hit the numbers, we'll provide cash rebates for you based on the average ticket size times the number of people that we miss projections by. So we really put our money where our mouth is. And we're the only ones in the business that do it, from what we've heard. Curious how that sounds for you."
+    },
+    {
+      "speaker": "A",
+      "text": "You know, John, sounds like you're the man. For me. It sounds pretty awesome. And I'm glad to finally hear someone speaking about this who seems to get it. So let me talk to some of my business partners and I can get back to you. Does that sound good?"
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, sounds great. Same time tomorrow work for you?"
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, that works perfectly. Thanks."
+    },
+    {
+      "speaker": "B",
+      "text": "Awesome. We'll touch base tomorrow. I appreciate you taking my call and look forward to being in touch."
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, likewise. Okay, bye."
+    },
+    {
+      "speaker": "B",
+      "text": "Awesome. Thanks."
+    },
+    {
+      "speaker": "A",
+      "text": "Bye."
+    }
+  ],
+  "audio_file": "X98Dh91.mov",
+  "transcribed_at": "2024-11-11 15:33:32"
+}

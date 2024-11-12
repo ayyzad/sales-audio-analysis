@@ -1,0 +1,129 @@
+{
+  "full_transcript": "This call is being recorded. This is Rob with Johnny's Restaurants. How can I help you? Hey Rob, this is John with Soft Skeleton again. We spoke briefly yesterday about reservation software, if you remember me. Oh yeah, the AI guys. What's up, John? Yeah, appreciate your time once again. I know you mentioned things aren't going great right now. I'm actually curious who you guys are using for your reservation software today. So we used OpenTable for a bit, but they were pricey and most people were regulars. They told us they drive new traffic our way, but they really didn't. We didn't feel like we were getting value for what we were paying, so we stopped using it. We have table agent now, which to be honest, gets the job done. Yeah, and they're free too, is that right? Yep, it's all free. But like I said, it's not perfect. You know, we can tell it's free, if you know what I mean. Yeah, yeah, I know that one. That's not fun. And I know the free product kind of mantra and restaurants especially. Well, hear me out. I know we talked a little bit yesterday, but it sounds like things aren't going that smoothly. It's not that easy to manage what you're using today. And you guys aren't really getting the business that you deserve. Look, I've been in to your guys place for breakfast. Your guys hash browns are straight up out of this world. I feel like you should have that place booked up seven days a week. And we help with reservations, kind of like what OpenTable promised you. But we, we actually promise to deliver there. So we have a bunch of people on our app looking for reservations just like them. But rather than forcing you to pay us without any guarantees, we actually take the risk on our end. So once we get your data, we'll guarantee that you get at least a certain number of bookings per day. And if we don't hit those numbers which are higher than what you have today, that's part of the guarantee you won't pay anything for our software at all. Oh, okay, that's interesting. So typically we have about 75 people on a Monday. If we only had 70, you'd cover the other five. Am I understanding correctly? Yeah, exactly. Happy to explain a little bit more. So we take the extra five and then multiply that by the average ticket size per person. So whatever that amount is for your guys, average ticket size, we just deposit that against our monthly cost, which is $500 a month. And if we're not providing that much value, then you don't pay us anything. Oh, awesome. $500 for something as important as reservations isn't bad too. We'll be better off with inventory management alone, to be honest. Let me see. Yeah, I think we can easily make that work. Where do we go from here? Awesome. Yeah. Glad to hear you're interested. So it's super easy to get started using us. All we really need is the contract sign, and then we're able to kind of get you onboard and everything. We will need a little bit of information just from your oms. It's really easy to pull, easy to send. I'll give you an email. I'll send one over to you with instructions on how to actually send us that data just so we can provide the guarantee. But aside from that, I think I just really want to show you the product. Make sure that things kind of look good on your end. And we can do that over video. Call when you're available. Yeah, sure. Let me. I'll get the owner too. He's the one who has to sign off on any new vendors, so I think he'll want to see that demo too. Does tomorrow at this time work for you? Yeah. Awesome. I'll send you an email, get it on your calendar, and look forward to chatting with you tomorrow. It should be fun. Awesome. Thanks. See you tomorrow. See ya.",
+  "speaker_assignments": [
+    {
+      "speaker": "A",
+      "name": "Company"
+    },
+    {
+      "speaker": "B",
+      "name": "Customer"
+    }
+  ],
+  "speakers": [
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "This is Rob with Johnny's Restaurants. How can I help you?",
+      "sentiment": "neutral",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Hey Rob, this is John with Soft Skeleton again. We spoke briefly yesterday about reservation software, if you remember me.",
+      "sentiment": "neutral",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Oh yeah, the AI guys. What's up, John?",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Yeah, appreciate your time once again. I know you mentioned things aren't going great right now. I'm actually curious who you guys are using for your reservation software today.",
+      "sentiment": "neutral",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "So we used OpenTable for a bit, but they were pricey and most people were regulars. They told us they drive new traffic our way, but they really didn't. We didn't feel like we were getting value for what we were paying, so we stopped using it. We have table agent now, which to be honest, gets the job done.",
+      "sentiment": "negative",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Yeah, and they're free too, is that right?",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Yep, it's all free. But like I said, it's not perfect. You know, we can tell it's free, if you know what I mean.",
+      "sentiment": "negative",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Yeah, yeah, I know that one. That's not fun. And I know the free product kind of mantra and restaurants especially. Well, hear me out. I know we talked a little bit yesterday, but it sounds like things aren't going that smoothly. It's not that easy to manage what you're using today. And you guys aren't really getting the business that you deserve. Look, I've been in to your guys place for breakfast. Your guys hash browns are straight up out of this world. I feel like you should have that place booked up seven days a week. And we help with reservations, kind of like what OpenTable promised you. But we, we actually promise to deliver there. So we have a bunch of people on our app looking for reservations just like them. But rather than forcing you to pay us without any guarantees, we actually take the risk on our end. So once we get your data, we'll guarantee that you get at least a certain number of bookings per day. And if we don't hit those numbers which are higher than what you have today, that's part of the guarantee you won't pay anything for our software at all.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Oh, okay, that's interesting. So typically we have about 75 people on a Monday. If we only had 70, you'd cover the other five. Am I understanding correctly?",
+      "sentiment": "neutral",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Yeah, exactly. Happy to explain a little bit more. So we take the extra five and then multiply that by the average ticket size per person. So whatever that amount is for your guys, average ticket size, we just deposit that against our monthly cost, which is $500 a month. And if we're not providing that much value, then you don't pay us anything.",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Oh, awesome. $500 for something as important as reservations isn't bad too. We'll be better off with inventory management alone, to be honest. Let me see. Yeah, I think we can easily make that work. Where do we go from here?",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Awesome. Yeah. Glad to hear you're interested. So it's super easy to get started using us. All we really need is the contract sign, and then we're able to kind of get you onboard and everything. We will need a little bit of information just from your oms. It's really easy to pull, easy to send. I'll give you an email. I'll send one over to you with instructions on how to actually send us that data just so we can provide the guarantee. But aside from that, I think I just really want to show you the product. Make sure that things kind of look good on your end. And we can do that over video. Call when you're available.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Yeah, sure. Let me. I'll get the owner too. He's the one who has to sign off on any new vendors, so I think he'll want to see that demo too. Does tomorrow at this time work for you?",
+      "sentiment": "neutral",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Yeah. Awesome. I'll send you an email, get it on your calendar, and look forward to chatting with you tomorrow. It should be fun.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Awesome. Thanks. See you tomorrow.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "See ya.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    }
+  ],
+  "audio_file": "9agY121.mp3",
+  "transcribed_at": "2024-11-11 15:32:46"
+}

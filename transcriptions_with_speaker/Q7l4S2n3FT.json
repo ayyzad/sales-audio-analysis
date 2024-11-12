@@ -1,0 +1,82 @@
+{
+  "full_transcript": "This call is being recorded. Hi, Terry Cycles here, how can I help you? Hi, this is John with Soft Skillet. How are you doing today? Not bad. What can I do for you? Yeah, I was hoping to speak with Terry, your guys owner. Yeah, Terry's out but I manage the place. What can I do for you? Awesome. Well, good to meet you. I'm with Soft Skillet as I mentioned and we provide reservation management software for restaurants like yourself. How are things going for you today on that front? Yeah, it's all right. Not perfect. We currently use Risi. It's a little expensive and it feels like it's all the same, to be honest. Yeah, got it. Well, I promise you we're a little bit different. We actually use AI to optimize seating arrangements and that allows you to deliver more revenue for your business. For example, rather than seeing a bunch of large parties book on a Friday or Saturday. We use AI to make sure that we manage your bookings and maximize the number of people you have come in, the tables you turn and your revenue overall. We've heard from a lot of our customers that it's a massive improvement over Resi using the new technology. What do you think? Yeah, I appreciate it, but I think we're all set for now. We're pretty old school and like it seem simple. Cheers. Thank you so much. Got it. Anything else that can be improved for you or any issues you run into? Just making sure we can keep the place running. I have to run. Have a good one though. Awesome, thanks. Bye.",
+  "speaker_assignments": [
+    {
+      "speaker": "A",
+      "name": "Company"
+    },
+    {
+      "speaker": "B",
+      "name": "Customer"
+    }
+  ],
+  "speakers": [
+    {
+      "speaker": "B",
+      "text": "This call is being recorded. Hi, Terry Cycles here, how can I help you?",
+      "name": "Customer"
+    },
+    {
+      "speaker": "A",
+      "text": "Hi, this is John with Soft Skillet. How are you doing today?",
+      "name": "Company"
+    },
+    {
+      "speaker": "B",
+      "text": "Not bad. What can I do for you?",
+      "name": "Customer"
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, I was hoping to speak with Terry, your guys owner.",
+      "name": "Company"
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, Terry's out but I manage the place. What can I do for you?",
+      "name": "Customer"
+    },
+    {
+      "speaker": "A",
+      "text": "Awesome. Well, good to meet you. I'm with Soft Skillet as I mentioned and we provide reservation management software for restaurants like yourself. How are things going for you today on that front?",
+      "name": "Company"
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, it's all right. Not perfect. We currently use Risi. It's a little expensive and it feels like it's all the same, to be honest.",
+      "name": "Customer"
+    },
+    {
+      "speaker": "A",
+      "text": "Yeah, got it. Well, I promise you we're a little bit different. We actually use AI to optimize seating arrangements and that allows you to deliver more revenue for your business. For example, rather than seeing a bunch of large parties book on a Friday or Saturday. We use AI to make sure that we manage your bookings and maximize the number of people you have come in, the tables you turn and your revenue overall. We've heard from a lot of our customers that it's a massive improvement over Resi using the new technology. What do you think?",
+      "name": "Company"
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah, I appreciate it, but I think we're all set for now. We're pretty old school and like it seem simple. Cheers. Thank you so much.",
+      "name": "Customer"
+    },
+    {
+      "speaker": "A",
+      "text": "Got it. Anything else that can be improved for you or any issues you run into?",
+      "name": "Company"
+    },
+    {
+      "speaker": "B",
+      "text": "Just making sure we can keep the place running. I have to run. Have a good one though.",
+      "name": "Customer"
+    },
+    {
+      "speaker": "A",
+      "text": "Awesome, thanks.",
+      "name": "Company"
+    },
+    {
+      "speaker": "B",
+      "text": "Bye.",
+      "name": "Customer"
+    }
+  ],
+  "audio_file": "Q7l4S2n3FT.mp3",
+  "transcribed_at": "2024-11-11 15:32:55"
+}

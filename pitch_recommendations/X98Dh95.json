@@ -1,0 +1,249 @@
+{
+  "full_transcript": "Hello? Hey, it's John with Soft Skill at Dave and Bob. How are you guys doing today? Doing well. Dave is a little under the weather today. He's here, but you'll just hear from me, Bob. Awesome. Sounds good Dave. Hope you feel better. Bob, how much information has Dave passed along to you? Not much. He told me he really wanted to chat with you but he's been under the weather. All I know is that you guys do reservations. Gotcha. Awesome. Well, Dave and I caught up yesterday and we chatted a good bit about you guys using OpenTable and some of the issues that you have right now. As mentioned, we're called Soft Skillet and we do a lot of things that OpenTable has tried to do for you but with a lot fewer issues. So we cover reservation management, order management and the rest for you. The big gripes that I've heard with OpenTable that you guys have are that they've tried to penny pinch you on pricing quite a bit, pretty much all the time. And that they haven't really held up their end of the bargain to get you more traffic in the door. Does that sound about right? Yeah, that's on the money. If you gave us the things they have with any of the hassles, PayPal, all that stuff and actually got us people, we'd move over in a heartbeat. Awesome. Yeah, that's exactly what I talked to Dave about yesterday. A lot of the people just really don't understand the restaurant business, to be honest. And that's why we started Soft Skillet. So here's how we work just to give you kind of the view. So we'll lock you in at $500 monthly rate for 24 months. So 500amonth, you don't have to worry about rate increases. So no more that pension penny pinching that you've dealt with at OpenTable. And this is the whole bundle. Included in that bundle is a guarantee that you'll see more customers. So I got the data from Dave, he sent it over by email yesterday. It looks like you guys are getting about 250 people through the door on a weekly basis. So if you don't get over 250 in a given week, you'll get a credit from us for 250 minus however many people we deliver times $20 which is your guys average ticket size. So let's say you only get 240 in a week, you get $150 credited. That doesn't sound right. You get $200 credited back to you for next month. So you'd only have to pay $300 for that month instead of the 500 monthly. Seriously? That's awesome. What if you send us 300 people but our average ticket size goes down though? Yeah, good question. So we don't provide a guarantee on ticket size that that'll stay the same, but we promise we'll get you more traffic. Has that happened with other restaurants? Do you guys run promotions or anything? Yeah. Basically the way it works on our end is if we're seeing the volumes are really low, we'll start promoting your restaurant and we'll offer credits on our platform to make sure we can drive traffic. Sometimes these people can be a little bit more budget conscious, and that means your ticket size will come down a bit, but we don't do that by default. We really want to send you people that are going to pay full freight. We've also seen restaurants benefit after the promotions with refit bookings, so it plays in your favor regardless. Sounds good. Awesome. Well, it sounds like you guys are all set. I'll go ahead and send that contract over to you and appreciate you taking the time to today. Thank you. Bye. See ya.",
+  "speaker_assignments": [
+    {
+      "speaker": "A",
+      "name": "Company"
+    },
+    {
+      "speaker": "B",
+      "name": "Customer"
+    }
+  ],
+  "speakers": [
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Hello? Hey, it's John with Soft Skill at Dave and Bob. How are you guys doing today?",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Doing well. Dave is a little under the weather today. He's here, but you'll just hear from me, Bob.",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Awesome.",
+      "sentiment": "positive",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Sounds good Dave. Hope you feel better. Bob, how much information has Dave passed along to you?",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Not much. He told me he really wanted to chat with you but he's been under the weather. All I know is that you guys do reservations.",
+      "sentiment": "neutral",
+      "confidence": 0.6
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Gotcha. Awesome.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Well, Dave and I caught up yesterday and we chatted a good bit about you guys using OpenTable and some of the issues that you have right now. As mentioned, we're called Soft Skillet and we do a lot of things that OpenTable has tried to do for you but with a lot fewer issues. So we cover reservation management, order management and the rest for you. The big gripes that I've heard with OpenTable that you guys have are that they've tried to penny pinch you on pricing quite a bit, pretty much all the time. And that they haven't really held up their end of the bargain to get you more traffic in the door. Does that sound about right?",
+      "sentiment": "neutral",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Yeah, that's on the money. If you gave us the things they have with any of the hassles, PayPal, all that stuff and actually got us people, we'd move over in a heartbeat.",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Awesome.",
+      "sentiment": "positive",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Yeah, that's exactly what I talked to Dave about yesterday. A lot of the people just really don't understand the restaurant business, to be honest. And that's why we started Soft Skillet. So here's how we work just to give you kind of the view. So we'll lock you in at $500 monthly rate for 24 months. So 500amonth, you don't have to worry about rate increases. So no more that pension penny pinching that you've dealt with at OpenTable. And this is the whole bundle. Included in that bundle is a guarantee that you'll see more customers. So I got the data from Dave, he sent it over by email yesterday. It looks like you guys are getting about 250 people through the door on a weekly basis. So if you don't get over 250 in a given week, you'll get a credit from us for 250 minus however many people we deliver times $20 which is your guys average ticket size. So let's say you only get 240 in a week, you get $150 credited. That doesn't sound right. You get $200 credited back to you for next month. So you'd only have to pay $300 for that month instead of the 500 monthly. Seriously?",
+      "sentiment": "positive",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "That's awesome. What if you send us 300 people but our average ticket size goes down though?",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Yeah, good question. So we don't provide a guarantee on ticket size that that'll stay the same, but we promise we'll get you more traffic.",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Has that happened with other restaurants? Do you guys run promotions or anything?",
+      "sentiment": "neutral",
+      "confidence": 0.65
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Yeah. Basically the way it works on our end is if we're seeing the volumes are really low, we'll start promoting your restaurant and we'll offer credits on our platform to make sure we can drive traffic. Sometimes these people can be a little bit more budget conscious, and that means your ticket size will come down a bit, but we don't do that by default. We really want to send you people that are going to pay full freight. We've also seen restaurants benefit after the promotions with refit bookings, so it plays in your favor regardless.",
+      "sentiment": "positive",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Sounds good.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Awesome.",
+      "sentiment": "positive",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Well, it sounds like you guys are all set. I'll go ahead and send that contract over to you and appreciate you taking the time to today.",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Thank you. Bye.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "See ya.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    }
+  ],
+  "audio_file": "X98Dh95.mp3",
+  "transcribed_at": "2024-11-11 15:33:17",
+  "conversation_analysis": {
+    "key_moments": [
+      {
+        "moment": "Customer expresses willingness to switch services if issues are resolved.",
+        "utterance_index": 9,
+        "impact": "Positive",
+        "explanation": "The customer shows strong interest in switching to Soft Skillet, indicating a significant opportunity for the company."
+      },
+      {
+        "moment": "Customer questions the guarantee on ticket size.",
+        "utterance_index": 15,
+        "impact": "Neutral",
+        "explanation": "This moment reflects the customer's concern about potential revenue loss, which could indicate hesitation."
+      },
+      {
+        "moment": "Customer expresses satisfaction with the proposed solution.",
+        "utterance_index": 20,
+        "impact": "Positive",
+        "explanation": "The customer’s positive sentiment here suggests they are likely to proceed with the offer."
+      }
+    ],
+    "conversation_flow": {
+      "opening_effectiveness": "The opening was friendly and engaging, establishing rapport with the customer.",
+      "objection_handling": "Objections were addressed adequately, but the response to the ticket size concern could have been more reassuring.",
+      "closing_effectiveness": "The closing was effective, with the customer expressing gratitude and readiness to proceed.",
+      "overall_flow_rating": 0.85
+    },
+    "customer_engagement": {
+      "sentiment_progression": "The customer's sentiment progressed from neutral to positive, indicating growing interest and engagement.",
+      "resonating_topics": [
+        "Cost savings compared to OpenTable",
+        "Guaranteed customer traffic",
+        "Promotional strategies to drive business"
+      ],
+      "concern_points": [
+        "Potential decrease in average ticket size",
+        "Reliability of customer traffic guarantees"
+      ]
+    },
+    "recommendations": {
+      "strengths": [
+        "Strong rapport building in the opening.",
+        "Clear presentation of value proposition.",
+        "Effective closing that encouraged customer commitment."
+      ],
+      "improvement_areas": [
+        "Provide more reassurance regarding ticket size fluctuations.",
+        "Anticipate and address potential customer concerns more proactively."
+      ],
+      "best_practices": [
+        "Use of positive affirmations to build rapport.",
+        "Clear explanation of pricing and guarantees.",
+        "Engaging the customer with questions to gauge understanding and interest."
+      ]
+    },
+    "overall_effectiveness_score": 0.82
+  },
+  "product_pitch_analysis": {
+    "recommended_pitch": "Smooth Revenue",
+    "fit_score": 0.9,
+    "reasoning": {
+      "primary_reasons": [
+        "Addresses the customer's concern about fluctuating ticket sizes and revenue predictability.",
+        "Offers a guarantee on customer traffic, which aligns with the customer's desire for more certainty in their bookings.",
+        "Provides a financial safety net by compensating for any shortfalls in expected guest numbers."
+      ],
+      "customer_signals": [
+        "The customer expressed a willingness to switch services if their issues with OpenTable were resolved.",
+        "They showed excitement about the proposed solution, particularly regarding guaranteed traffic and cost savings."
+      ],
+      "potential_objections": [
+        "Concerns about the potential decrease in average ticket size.",
+        "Skepticism about the reliability of customer traffic guarantees."
+      ]
+    },
+    "actual_discussion": {
+      "alignment": "The conversation effectively highlighted the customer's pain points regarding OpenTable, particularly around cost and customer traffic, which aligns well with the Smooth Revenue pitch.",
+      "missed_opportunities": [
+        "The conversation could have further emphasized how Smooth Revenue specifically mitigates risks associated with fluctuating ticket sizes.",
+        "More detailed examples of how other restaurants have benefited from the revenue guarantee could have been shared."
+      ],
+      "improvement_suggestions": [
+        "Reassure the customer about ticket size fluctuations by providing case studies or testimonials from similar restaurants.",
+        "Discuss how the Smooth Revenue model has successfully helped other clients manage their food costs and budgeting."
+      ]
+    },
+    "alternative_pitches": [
+      {
+        "name": "AI Seating",
+        "fit_score": 0.6,
+        "key_consideration": "While innovative, it may not directly address the customer's immediate concerns about revenue predictability and guaranteed traffic."
+      },
+      {
+        "name": "Operator",
+        "fit_score": 0.7,
+        "key_consideration": "This pitch appeals to emotions and shared experiences but may lack the concrete financial guarantees that the customer is seeking."
+      }
+    ]
+  }
+}

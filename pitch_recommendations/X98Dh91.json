@@ -1,0 +1,234 @@
+{
+  "full_transcript": "Hi, Dave with Oceanside Bites here. How can I help you? Hey, Dave, this is John with Soft Skillet. How are you doing today? Doing well. What can I do for you? Yeah, I'm trying to get a hold of either your owner or your manager. We're a software company started by ex restaurateurs that help have built a reservation management system that actually works for you guys. Do you guys have something to handle reservations today before you patch me through? Yes, we are using OpenTable right now. I'm actually the manager. Oh, awesome. Dave. Yeah, as mentioned, name's John. I'm with soft skillet. How's OpenTable working for you? Is it checking all the boxes today? Yeah, you know, they get the job done, but we don't love them. Feels like they nickel and dime us a bit. You know, you said you've been in this business and you know the margins are thin as they are and we don't need someone who comes back to us asking for an extra 10% basically every month. They just keep driving the price up on us. Yeah, that is annoying. Very frustrating. Any other issues you run into with them too? Yeah, they sold us in getting more reservations booked with their massive network, but it's not really worked out. A lot of our regulars still call us for reservations and we're not at the top of their search list because we don't pay for promotion. They told us that they'd get us more customers and so far we haven't really seen that. Just requests to pay them for ads and get more people. Yeah, they are really nickel and diming you and sounds like they're not doing too much for you. Sorry to hear that. So, I mean, honestly, a lot of people just don't get the restaurant business. It's tough. Like I said, I've been there before and that's pretty much exactly why we got started. We feel like most of these software providers don't actually get it. So let me tell you what makes us a little bit different. First, we're going to lock you at a price for 24 months so you don't have to worry about getting rates jacked up every month. I've heard a lot about OpenTable and they come back to you regularly it seems, so you don't have to worry about those rate increases locked in for two years. We also provide a guarantee that you'll actually see more customers. So I know you use them to try and get more people in the door. Once we get your data, we basically guarantee that you're going to see at least the same number of bookings in a given week, and if not more so if we don't hit the numbers, we'll provide cash rebates for you based on the average ticket size times the number of people that we miss projections by. So we really put our money where our mouth is. And we're the only ones in the business that do it, from what we've heard. Curious how that sounds for you. You know, John, sounds like you're the man. For me. It sounds pretty awesome. And I'm glad to finally hear someone speaking about this who seems to get it. So let me talk to some of my business partners and I can get back to you. Does that sound good? Yeah, sounds great. Same time tomorrow work for you? Yeah, that works perfectly. Thanks. Awesome. We'll touch base tomorrow. I appreciate you taking my call and look forward to being in touch. Yeah, likewise. Okay, bye. Awesome. Thanks. Bye.",
+  "speaker_assignments": [
+    {
+      "speaker": "A",
+      "name": "Customer"
+    },
+    {
+      "speaker": "B",
+      "name": "Company"
+    }
+  ],
+  "speakers": [
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Hi, Dave with Oceanside Bites here. How can I help you?",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Hey, Dave, this is John with Soft Skillet. How are you doing today?",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Doing well. What can I do for you?",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Yeah, I'm trying to get a hold of either your owner or your manager. We're a software company started by ex restaurateurs that help have built a reservation management system that actually works for you guys. Do you guys have something to handle reservations today before you patch me through?",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Yes, we are using OpenTable right now. I'm actually the manager.",
+      "sentiment": "neutral",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Oh, awesome. Dave. Yeah, as mentioned, name's John. I'm with soft skillet. How's OpenTable working for you? Is it checking all the boxes today?",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Yeah, you know, they get the job done, but we don't love them. Feels like they nickel and dime us a bit. You know, you said you've been in this business and you know the margins are thin as they are and we don't need someone who comes back to us asking for an extra 10% basically every month. They just keep driving the price up on us.",
+      "sentiment": "negative",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Yeah, that is annoying. Very frustrating. Any other issues you run into with them too?",
+      "sentiment": "negative",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Yeah, they sold us in getting more reservations booked with their massive network, but it's not really worked out. A lot of our regulars still call us for reservations and we're not at the top of their search list because we don't pay for promotion. They told us that they'd get us more customers and so far we haven't really seen that. Just requests to pay them for ads and get more people.",
+      "sentiment": "negative",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Yeah, they are really nickel and diming you and sounds like they're not doing too much for you. Sorry to hear that. So, I mean, honestly, a lot of people just don't get the restaurant business. It's tough. Like I said, I've been there before and that's pretty much exactly why we got started. We feel like most of these software providers don't actually get it. So let me tell you what makes us a little bit different. First, we're going to lock you at a price for 24 months so you don't have to worry about getting rates jacked up every month. I've heard a lot about OpenTable and they come back to you regularly it seems, so you don't have to worry about those rate increases locked in for two years. We also provide a guarantee that you'll actually see more customers. So I know you use them to try and get more people in the door. Once we get your data, we basically guarantee that you're going to see at least the same number of bookings in a given week, and if not more so if we don't hit the numbers, we'll provide cash rebates for you based on the average ticket size times the number of people that we miss projections by. So we really put our money where our mouth is. And we're the only ones in the business that do it, from what we've heard. Curious how that sounds for you.",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "You know, John, sounds like you're the man. For me. It sounds pretty awesome. And I'm glad to finally hear someone speaking about this who seems to get it. So let me talk to some of my business partners and I can get back to you. Does that sound good?",
+      "sentiment": "positive",
+      "confidence": 0.95
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Yeah, sounds great. Same time tomorrow work for you?",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Yeah, that works perfectly. Thanks.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Awesome. We'll touch base tomorrow. I appreciate you taking my call and look forward to being in touch.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Yeah, likewise. Okay, bye.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Company",
+      "text": "Awesome. Thanks.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "A",
+      "name": "Customer",
+      "text": "Bye.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    }
+  ],
+  "audio_file": "X98Dh91.mov",
+  "transcribed_at": "2024-11-11 15:33:32",
+  "conversation_analysis": {
+    "key_moments": [
+      {
+        "moment": "Customer expresses dissatisfaction with OpenTable",
+        "utterance_index": 6,
+        "impact": "Negative",
+        "explanation": "This moment is significant as it highlights the customer's pain points and opens the door for the company to position its solution effectively."
+      },
+      {
+        "moment": "Company empathizes and shares their unique selling proposition",
+        "utterance_index": 9,
+        "impact": "Positive",
+        "explanation": "The company's response not only validates the customer's frustrations but also introduces a compelling offer, leading to a shift in customer sentiment towards a more positive outlook."
+      },
+      {
+        "moment": "Customer expresses excitement about the company's offer",
+        "utterance_index": 12,
+        "impact": "Positive",
+        "explanation": "The customer's enthusiastic response indicates a strong interest in the company's solution, suggesting a pivotal moment in the conversation where engagement peaks."
+      }
+    ],
+    "conversation_flow": {
+      "opening_effectiveness": "The opening was friendly and established a positive tone, but it could have been more focused on understanding the customer's needs immediately.",
+      "objection_handling": "The company effectively handled objections by empathizing with the customer's frustrations and providing a tailored solution, which resonated well.",
+      "closing_effectiveness": "The closing was effective, with the customer agreeing to follow up, indicating a strong likelihood of continued engagement.",
+      "overall_flow_rating": 0.85
+    },
+    "customer_engagement": {
+      "sentiment_progression": "The customer's sentiment shifted from neutral to negative when discussing OpenTable, then to positive as the company presented its solution.",
+      "resonating_topics": [
+        "Frustrations with OpenTable's pricing and service",
+        "Desire for a reliable reservation management system",
+        "Guarantees of increased customer bookings"
+      ],
+      "concern_points": [
+        "Previous promises from OpenTable not being fulfilled",
+        "Concerns about ongoing costs and price increases"
+      ]
+    },
+    "recommendations": {
+      "strengths": [
+        "The company representative demonstrated empathy and understanding of the restaurant business.",
+        "The unique selling proposition was clearly articulated, addressing specific customer pain points."
+      ],
+      "improvement_areas": [
+        "The opening could include more probing questions to uncover customer needs earlier.",
+        "The company could provide more specific examples or testimonials to build credibility."
+      ],
+      "best_practices": [
+        "Active listening and validating customer concerns.",
+        "Presenting a clear and compelling value proposition."
+      ]
+    },
+    "overall_effectiveness_score": 0.87
+  },
+  "product_pitch_analysis": {
+    "recommended_pitch": "Smooth Revenue",
+    "fit_score": 0.92,
+    "reasoning": {
+      "primary_reasons": [
+        "Addresses the customer's frustration with unpredictable revenue and rising costs from OpenTable.",
+        "Offers a guarantee on customer bookings, which aligns with the customer's desire for reliability.",
+        "Helps the customer manage food costs better by providing certainty in reservations."
+      ],
+      "customer_signals": [
+        "The customer expressed dissatisfaction with OpenTable's pricing model and unpredictability in bookings.",
+        "The customer showed excitement about the company's guarantee of increased bookings.",
+        "The customer indicated a strong interest in solutions that understand the restaurant business."
+      ],
+      "potential_objections": [
+        "The customer may be skeptical about the accuracy of predictions and guarantees.",
+        "Concerns about the initial transition from OpenTable to a new system could arise."
+      ]
+    },
+    "actual_discussion": {
+      "alignment": "The conversation effectively highlighted the customer's pain points with OpenTable, making the Smooth Revenue pitch a natural fit.",
+      "missed_opportunities": [
+        "The company could have further emphasized how the Smooth Revenue pitch specifically addresses the customer's concerns about rising costs.",
+        "Providing examples of how other restaurants have benefited from the Smooth Revenue model could have strengthened the pitch."
+      ],
+      "improvement_suggestions": [
+        "Incorporate specific case studies or testimonials to build credibility around the guarantee offered.",
+        "Engage the customer with questions about their current revenue management practices to tailor the pitch even more closely."
+      ]
+    },
+    "alternative_pitches": [
+      {
+        "name": "AI Seating",
+        "fit_score": 0.75,
+        "key_consideration": "While it offers innovative solutions, it may not directly address the customer's immediate concerns about pricing and reliability."
+      },
+      {
+        "name": "Operator",
+        "fit_score": 0.8,
+        "key_consideration": "This pitch appeals to emotions and shared experiences, but may not provide the concrete solutions the customer is looking for."
+      }
+    ]
+  }
+}

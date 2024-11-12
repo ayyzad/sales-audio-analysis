@@ -1,0 +1,162 @@
+{
+  "full_transcript": "This call is being recorded. Hi, Terry Cycles here, how can I help you? Hi, this is John with Soft Skillet. How are you doing today? Not bad. What can I do for you? Yeah, I was hoping to speak with Terry, your guys owner. Yeah, Terry's out but I manage the place. What can I do for you? Awesome. Well, good to meet you. I'm with Soft Skillet as I mentioned and we provide reservation management software for restaurants like yourself. How are things going for you today on that front? Yeah, it's all right. Not perfect. We currently use Risi. It's a little expensive and it feels like it's all the same, to be honest. Yeah, got it. Well, I promise you we're a little bit different. We actually use AI to optimize seating arrangements and that allows you to deliver more revenue for your business. For example, rather than seeing a bunch of large parties book on a Friday or Saturday. We use AI to make sure that we manage your bookings and maximize the number of people you have come in, the tables you turn and your revenue overall. We've heard from a lot of our customers that it's a massive improvement over Resi using the new technology. What do you think? Yeah, I appreciate it, but I think we're all set for now. We're pretty old school and like it seem simple. Cheers. Thank you so much. Got it. Anything else that can be improved for you or any issues you run into? Just making sure we can keep the place running. I have to run. Have a good one though. Awesome, thanks. Bye.",
+  "speaker_assignments": [
+    {
+      "speaker": "A",
+      "name": "Company"
+    },
+    {
+      "speaker": "B",
+      "name": "Customer"
+    }
+  ],
+  "speakers": [
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "This call is being recorded. Hi, Terry Cycles here, how can I help you?",
+      "sentiment": "neutral",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Hi, this is John with Soft Skillet. How are you doing today?",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Not bad. What can I do for you?",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Yeah, I was hoping to speak with Terry, your guys owner.",
+      "sentiment": "neutral",
+      "confidence": 0.6
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Yeah, Terry's out but I manage the place. What can I do for you?",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Awesome. Well, good to meet you. I'm with Soft Skillet as I mentioned and we provide reservation management software for restaurants like yourself. How are things going for you today on that front?",
+      "sentiment": "positive",
+      "confidence": 0.85
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Yeah, it's all right. Not perfect. We currently use Risi. It's a little expensive and it feels like it's all the same, to be honest.",
+      "sentiment": "negative",
+      "confidence": 0.75
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Yeah, got it. Well, I promise you we're a little bit different. We actually use AI to optimize seating arrangements and that allows you to deliver more revenue for your business. For example, rather than seeing a bunch of large parties book on a Friday or Saturday. We use AI to make sure that we manage your bookings and maximize the number of people you have come in, the tables you turn and your revenue overall. We've heard from a lot of our customers that it's a massive improvement over Resi using the new technology. What do you think?",
+      "sentiment": "positive",
+      "confidence": 0.8
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Yeah, I appreciate it, but I think we're all set for now. We're pretty old school and like it seem simple. Cheers. Thank you so much.",
+      "sentiment": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Got it. Anything else that can be improved for you or any issues you run into?",
+      "sentiment": "neutral",
+      "confidence": 0.65
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Just making sure we can keep the place running. I have to run. Have a good one though.",
+      "sentiment": "neutral",
+      "confidence": 0.6
+    },
+    {
+      "speaker": "A",
+      "name": "Company",
+      "text": "Awesome, thanks.",
+      "sentiment": "positive",
+      "confidence": 0.9
+    },
+    {
+      "speaker": "B",
+      "name": "Customer",
+      "text": "Bye.",
+      "sentiment": "neutral",
+      "confidence": 0.8
+    }
+  ],
+  "audio_file": "Q7l4S2n3FT.mp3",
+  "transcribed_at": "2024-11-11 15:32:55",
+  "conversation_analysis": {
+    "key_moments": [
+      {
+        "moment": "Customer expresses dissatisfaction with current software (Risi)",
+        "utterance_index": 7,
+        "impact": "Negative",
+        "explanation": "This moment indicates the customer's frustration with their current solution, presenting an opportunity for the company to address specific pain points."
+      },
+      {
+        "moment": "Company introduces AI as a differentiator",
+        "utterance_index": 8,
+        "impact": "Positive",
+        "explanation": "The introduction of AI as a unique selling point could have intrigued the customer, but it did not lead to a strong engagement."
+      },
+      {
+        "moment": "Customer states they are 'all set for now'",
+        "utterance_index": 9,
+        "impact": "Negative",
+        "explanation": "This statement signifies a clear rejection of the offer, indicating that the company failed to persuade the customer despite presenting a potential solution."
+      }
+    ],
+    "conversation_flow": {
+      "opening_effectiveness": "The opening was friendly and positive, establishing rapport but lacking a strong hook to engage the customer further.",
+      "objection_handling": "The company did not effectively handle the customer's objection about being 'old school' and preferring simplicity, missing an opportunity to explain how their solution could still meet those needs.",
+      "closing_effectiveness": "The closing was polite but ineffective, as the customer did not express interest in further discussion or follow-up.",
+      "overall_flow_rating": 0.5
+    },
+    "customer_engagement": {
+      "sentiment_progression": "Customer sentiment shifted from neutral to negative when discussing their current software, then remained neutral after the company's pitch.",
+      "resonating_topics": [
+        "Cost of current software",
+        "Desire for simplicity"
+      ],
+      "concern_points": [
+        "Complexity of new technology",
+        "Satisfaction with current operations"
+      ]
+    },
+    "recommendations": {
+      "strengths": [
+        "Friendly and positive opening",
+        "Clear presentation of unique selling points"
+      ],
+      "improvement_areas": [
+        "Address customer pain points more directly",
+        "Offer tailored solutions that align with the customer's preference for simplicity"
+      ],
+      "best_practices": [
+        "Establish rapport early in the conversation",
+        "Use customer feedback to guide the conversation"
+      ]
+    },
+    "overall_effectiveness_score": 0.4
+  }
+}
